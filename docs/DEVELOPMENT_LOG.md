@@ -14,3 +14,4 @@
 - Commit 12: Optimized asset loading (Task #1012)
 - Commit 13: Cleaned up root directory (Task #1013)
 - Commit 14: Improved error handling (Task #1014)
+- Commit 15: Cleaned up root directory (Task #1015)
