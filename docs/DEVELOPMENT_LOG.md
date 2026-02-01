@@ -12,3 +12,4 @@
 - Commit 10: Patched security vulnerability (Task #1010)
 - Commit 11: Patched security vulnerability (Task #1011)
 - Commit 12: Optimized asset loading (Task #1012)
+- Commit 13: Cleaned up root directory (Task #1013)
