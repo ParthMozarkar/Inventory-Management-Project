@@ -8,3 +8,4 @@
 - Commit 6: Optimized asset loading (Task #1006)
 - Commit 7: Improved error handling (Task #1007)
 - Commit 8: Moved docs and scripts (Task #1008)
+- Commit 9: Moved docs and scripts (Task #1009)
