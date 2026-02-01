@@ -19,3 +19,4 @@
 - Commit 17: Refactored authentication logic (Task #1017)
 - Commit 18: Added new inventory modules (Task #1018)
 - Commit 19: Fixed responsiveness issues (Task #1019)
+- Commit 20: Refactored database connector (Task #1020)
