@@ -16,3 +16,4 @@
 - Commit 14: Improved error handling (Task #1014)
 - Commit 15: Cleaned up root directory (Task #1015)
 - Commit 16: Enhanced fast-billing logic (Task #1016)
+- Commit 17: Refactored authentication logic (Task #1017)
