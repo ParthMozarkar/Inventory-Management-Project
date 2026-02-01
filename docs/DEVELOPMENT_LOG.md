@@ -11,3 +11,4 @@
 - Commit 9: Moved docs and scripts (Task #1009)
 - Commit 10: Patched security vulnerability (Task #1010)
 - Commit 11: Patched security vulnerability (Task #1011)
+- Commit 12: Optimized asset loading (Task #1012)
