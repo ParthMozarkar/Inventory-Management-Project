@@ -1,0 +1,33 @@
+
+--- d:\inverntory manegmenet\Simple-Inventory-Management-System-by-Barcode-Scanner\db\IEEE_Shop.db ---
+Tables: ['inventory', 'users', 'categories', 'sqlite_sequence', 'suppliers', 'transactions', 'brands', 'stock_history', 'sales_log']
+  inventory: 0 rows
+  users: 2 rows
+  categories: 0 rows
+  sqlite_sequence: 4 rows
+  suppliers: 0 rows
+  transactions: 0 rows
+  brands: 0 rows
+  stock_history: 0 rows
+  sales_log: 0 rows
+    Sample: []
+
+--- d:\inverntory manegmenet\Simple-Inventory-Management-System-by-Barcode-Scanner\core\IEEE_Shop.db ---
+Tables: ['brands', 'sqlite_sequence', 'suppliers', 'transactions', 'sales_log', 'stock_history']
+  brands: 3 rows
+  sqlite_sequence: 1 rows
+  suppliers: 0 rows
+  transactions: 0 rows
+  sales_log: 0 rows
+    Sample: []
+  stock_history: 0 rows
+
+--- d:\inverntory manegmenet\Simple-Inventory-Management-System-by-Barcode-Scanner\dist\VJ_Beer_Inventory\db\IEEE_Shop.db ---
+Tables: ['inventory', 'users', 'categories', 'sqlite_sequence', 'suppliers', 'transactions', 'stock_history']
+  inventory: 0 rows
+  users: 2 rows
+  categories: 0 rows
+  sqlite_sequence: 0 rows
+  suppliers: 0 rows
+  transactions: 0 rows
+  stock_history: 0 rows
