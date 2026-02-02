@@ -7,3 +7,4 @@
 - Commit 5: Cleaned up root directory (Task #1005)
 - Commit 6: Added new inventory modules (Task #1006)
 - Commit 7: Moved docs and scripts (Task #1007)
+- Commit 8: Improved error handling (Task #1008)
