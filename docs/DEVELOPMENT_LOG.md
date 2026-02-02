@@ -20,3 +20,4 @@
 - Commit 18: Refactored folder structure (Task #1018)
 - Commit 19: Updated UI styling (Task #1019)
 - Commit 20: Updated layout configuration (Task #1020)
+- Commit 21: Updated UI styling (Task #1021)
