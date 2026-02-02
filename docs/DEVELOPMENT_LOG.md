@@ -17,3 +17,4 @@
 - Commit 15: Updated UI styling (Task #1015)
 - Commit 16: Updated layout configuration (Task #1016)
 - Commit 17: Updated layout configuration (Task #1017)
+- Commit 18: Refactored folder structure (Task #1018)
