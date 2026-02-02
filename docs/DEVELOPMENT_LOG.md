@@ -25,3 +25,4 @@
 - Commit 23: Fixed responsiveness issues (Task #1023)
 - Commit 24: Refactored folder structure (Task #1024)
 - Commit 25: Updated dependency requirements (Task #1025)
+- Commit 26: Updated UI styling (Task #1026)
