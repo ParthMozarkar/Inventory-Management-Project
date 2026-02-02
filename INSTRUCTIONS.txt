@@ -1,0 +1,33 @@
+===================================================================
+   VJ BEER SHOPE - INVENTORY MANAGEMENT SYSTEM (PREMIUM EDITION)
+===================================================================
+
+Thank you for choosing VJ Beer Inventory System!
+
+--- [ INSTALLATION INSTRUCTIONS ] ---
+
+1.  This is a Portable Application. NO INSTALLATION REQUIRED.
+2.  Simply copy the "VJ_Beer_Inventory.exe" file to any folder on your computer (e.g., Desktop or Documents).
+3.  Double-click "VJ_Beer_Inventory.exe" to launch.
+
+--- [ FIRST RUN ] ---
+
+-   The application will automatically create a "db" folder next to the .exe file. 
+    This is where your database (IEEE_Shop.db) is stored. 
+-   DO NOT DELETE the "db" folder, or you will lose your data!
+
+--- [ DEFAULT LOGIN ] ---
+
+   Username: admin
+   Password: password
+
+   *Please create new users or change the password after your first login.*
+
+--- [ SUPPORT ] ---
+
+For technical support or feature requests:
+Email: greatparth21@gmail.com
+
+===================================================================
+      (C) 2026 Parth Mozarkar. All Rights Reserved.
+===================================================================
