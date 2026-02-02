@@ -26,3 +26,4 @@
 - Commit 24: Refactored folder structure (Task #1024)
 - Commit 25: Updated dependency requirements (Task #1025)
 - Commit 26: Updated UI styling (Task #1026)
+- Commit 27: Improved error handling (Task #1027)
